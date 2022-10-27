@@ -1,0 +1,9 @@
+path: /
+appFile: opengl_build_rpg_tutorial - Shortcut
+windowTitle: IQ
+hardwareKey: false #Turn this flag on if it's Direct X game as DX Input use hardware input set
+appName: opengl_build_rpg_tutorial
+pageTitle: "Cloud Morph Demo"
+appMode: single #app mode: collaborative/single (ex. collaborative: multiple user using same game session)
+discoveryHost: https://dev.cloudcolab.net
+hasChat: true

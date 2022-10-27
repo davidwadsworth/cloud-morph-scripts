@@ -1,0 +1,9 @@
+path: /
+appFile: WhipJumpKickGrab - Shortcut
+windowTitle: WJKG
+hardwareKey: false #Turn this flag on if it's Direct X game as DX Input use hardware input set
+appName: Whip-Jump-Kick-Grab
+pageTitle: "Cloud Morph Demo"
+appMode: single #app mode: collaborative/single (ex. collaborative: multiple user using same game session)
+discoveryHost: https://dev.cloudcolab.net
+hasChat: true
